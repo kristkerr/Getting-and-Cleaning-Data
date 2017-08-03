@@ -35,14 +35,14 @@ These signals were used to estimate variables of the feature vector for each pat
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 ### Abbreviation's of Variables
-t or f at the start is based on time or frequency measurements.
-Body = body movement.
-Gravity = acceleration of gravity
-Acc = accelerometer 
-Gyro = gyroscopic 
-Jerk = sudden movement 
-Mag = magnitude 
-mean and SD are calculated for each subject for each activity for each mean and SD measurements.
+* t or f at the start is based on time or frequency measurements.
+* Body = body movement.
+* Gravity = acceleration of gravity
+* Acc = accelerometer 
+* Gyro = gyroscopic 
+* Jerk = sudden movement 
+* Mag = magnitude 
+* mean and SD are calculated for each subject for each activity for each mean and SD measurements.
 
 ### Variables
 tBodyAcc-XYZ
