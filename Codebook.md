@@ -11,21 +11,21 @@ Bulk of the data for the experiment
 * test/x_test.txt
 * train/x_train.txt
 
-#### SUBJECT ID  
+**SUBJECT ID**
 Column of subject ids to add to data of features
 * test/subject_test.txt
 * train/subject_train.txt
 
-#### ACTIVITY ID 
+**ACTIVITY ID**
 Column of the activity ids associated to the data features
 * test/Y_test.txt
 * train/Y_train.txt
 
-#### FEATURES 
+**FEATURES** 
 Variable names of X files
 * features.txt
 
-#### ACTIVITY LABELS
+**ACTIVITY LABELS**
 6 coded labels to correspond to the activity id
 * activity_labels.txt 
 
