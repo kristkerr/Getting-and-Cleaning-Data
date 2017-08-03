@@ -75,3 +75,7 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 * tBodyAccJerkMean
 * tBodyGyroMean
 * tBodyGyroJerkMean
+
+### Added Variables
+* subjectId \- ID of the subject pulled from the subject files
+* activity \- activity names pulled for the activity\_labels file and  merged with the activity id 
